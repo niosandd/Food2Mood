@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/niosandd/Food2Mood/assets/109283415/cfaa8c4d-fe3c-4e3a-9420-5b45b86dbc84" alt="Food2Mood Image" width="75%" height="75%">
+  <img src="https://github.com/niosandd/Food2Mood/assets/109283415/cfaa8c4d-fe3c-4e3a-9420-5b45b86dbc84" alt="Food2Mood Image" width="25%" height="25%">
 </div>
 
 
