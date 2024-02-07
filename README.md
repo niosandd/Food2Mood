@@ -26,4 +26,4 @@
 
 ---
 
-[Ссылка на бота Food2Mood](https://t.me/fdmd_project_bot)
+[Бот](https://t.me/fdmd_project_bot)
