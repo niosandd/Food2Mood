@@ -23,3 +23,7 @@
 - ВКонтакте: [fdmd_project](https://vk.com/fdmd_project)
 - Telegram: [fdmd_project](https://t.me/fdmd_project)
 - Instagram: [fdmd_project](https://www.instagram.com/fdmd_project?igsh=MWQ3NDVnd3MzYWc0bw==)
+
+---
+
+[Ссылка на бота Food2Mood](https://t.me/fdmd_project_bot)
