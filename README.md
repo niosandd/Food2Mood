@@ -25,5 +25,5 @@
 - Instagram: [fdmd_project](https://www.instagram.com/fdmd_project?igsh=MWQ3NDVnd3MzYWc0bw==)
 
 ---
-
-[Бот](https://t.me/fdmd_project_bot)
+### Бот 🤖
+[Food2Mood](https://t.me/fdmd_project_bot)
